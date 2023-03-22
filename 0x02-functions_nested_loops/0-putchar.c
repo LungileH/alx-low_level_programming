@@ -1,10 +1,10 @@
 #include "main.h"
-	/**
-	 * main - main function
-	 * _putchar: print the alphabets of putchar
-	 *
-	 * Return: 0
-	 */
+/**
+* main - main function
+* _putchar: print the alphabets of putchar
+*
+* Return: 0
+*/
 
 
 int main(void)
