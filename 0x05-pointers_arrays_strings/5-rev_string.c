@@ -2,11 +2,10 @@
 
 /**
  * rev_string - Reverses a string
- * @s the string to be modified
+ * @s: The string to be modified
  * Return: void
  */
 void rev_string(char *s)
-
 {
 	int len = 0, index = 0;
 
