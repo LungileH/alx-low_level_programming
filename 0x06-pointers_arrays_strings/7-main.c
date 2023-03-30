@@ -5,12 +5,11 @@
  * main - check the code for
  *
  * Return: Always 0.
-*/
-void (p);
+ */
 int main(void)
 {
 	char s[] = "Expect the best.Prepare for the worst.Capitalize on what comes.\n";
-	char *leet(char *p);
+	char *p;
 
 	p = leet(s);
 	printf("%s", p);
